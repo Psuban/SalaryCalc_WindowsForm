@@ -6,3 +6,4 @@ U:\Personal\GitPractice\SalaryCalc_WindowsForm\WindowsFormsApplication1\WindowsF
 U:\Personal\GitPractice\SalaryCalc_WindowsForm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 U:\Personal\GitPractice\SalaryCalc_WindowsForm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 U:\Personal\GitPractice\SalaryCalc_WindowsForm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+U:\Personal\GitPractice\SalaryCalc_WindowsForm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
